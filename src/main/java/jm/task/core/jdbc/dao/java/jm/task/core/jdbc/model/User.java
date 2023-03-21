@@ -1,4 +1,4 @@
-package jm.task.core.jdbc.model;
+package jm.task.core.jdbc.dao.java.jm.task.core.jdbc.model;
 
 import javax.persistence.*;
 
